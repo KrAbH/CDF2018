@@ -1,4 +1,4 @@
-# CDF2018
+# CFD2018
 Predicting natural hazards and management.
 It is not too long when cyclone "Titli" hit the parts of India and caused too much damage. Now a days quite frequently we are seeing
 having this kind of occurences like recent flood in Kerala, Hurricane Michael striking US. These kind of natural disasters effects way too
