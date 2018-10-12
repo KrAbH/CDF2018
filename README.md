@@ -2,11 +2,12 @@
 Predicting natural hazards and management.
 It is not too long when cyclone "Titli" hit the parts of India and caused too much damage. Now a days quite frequently we are seeing
 having this kind of occurences like recent flood in Kerala, Hurricane Michael striking US. These kind of natural disasters effects way too
-many lives and destroys huge infrastructure. 
+many lives and destroys huge infrastructure. A pre warining before the disaster can save lots of lives. Organized and efficient 
+distribution of rescue can also save lots of life. We want to address the problem of proper management in rescue operations to save maximum lives. 
 
 # Our Problem Statement
 When a natural hazard occurs the amount of resources and number of personnel to help is quite limited. We want to address this issue 
-by creating a mechanism such that it deploys the manpower and resources such that it maximizes the help given to the victims. 
+by creating a mechanism such that it deploys the manpower and resources such that it maximizes the help to the victims. 
 
 # Our Solution
 We are proposing a solution based using techniques of machine learning and Optimization methods to effectively provide the help to the victims
